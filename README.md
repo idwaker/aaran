@@ -1,2 +1,3 @@
 # aaran
-aaran is nepali name for blacksmith workshop.
+
+A place about learning Rust and trying to build something out of it.
